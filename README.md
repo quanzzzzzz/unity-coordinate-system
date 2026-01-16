@@ -1,3 +1,3 @@
-BT Game
-họ và tên: Bùi Xuân Quân
+BT Game<br>
+họ và tên: Bùi Xuân Quân<br>
 MSV: BIT230490
